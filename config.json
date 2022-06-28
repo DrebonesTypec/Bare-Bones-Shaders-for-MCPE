@@ -1,31 +1,31 @@
 {
   "Config": [
     {
-      "interval": 5,
+      "interval": 2,
       "backup": "unity",
       "status": true,
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
       "addon": false,
-      "maps": false,
-      "texture": false,
+      "maps": true,
+      "texture": true,
       "skin": true,
       "more": false,
       
-      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+      "admob_open_ads": "ca-app-pub-9730108346595961/8434907452",
+      "admob_banner": "ca-app-pub-9730108346595961/1568463813",
+      "admob_inter": "ca-app-pub-9730108346595961/7942300471",
+      "admob_native": "ca-app-pub-9730108346595961/6629218805",
      
       
       "unity_banner": "Banner_Android",
       "unity_inter": "Interstitial_Android",
       
       
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
+      "applovin_banner": "5247b8e682c81ab4",
+      "applovin_inter": "2a7ecceabf025686",
+      "applovin_native": "95efc1f8de60a8f3",
       
       "ironsource_banner": "1215fccad",
       "ironsource_inter": "1215fccad"
@@ -45,53 +45,408 @@
   ],
   "Map": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Enhanced Biomes Addon",
+        "role": "From time to time, you need to update the appearance of Minecraft Bedrock so that the game does not bother. But typical tools are sometimes not enough, and standard texture packages and shaders do not give the desired effect. In this case, try the Enhanced Biomes addon! After installing it, each biome in the MCPE game will become better. The spawn of hills, trees, villages and other elements will change and become cooler! The player will have a greater chance of stumbling into hidden, atmospheric villages. And biome landscapes will bewitch the views. In addition, this addon contains shaders that will change the lighting and elaboration of the game world. If you look at the screenshot of Hell, you will understand how much the lighting will change.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/delapanpuluhempat_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/enhanced_biomes.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/delapanpuluhtiga_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/empatpuluhdua.png"
+    },
+    {
+        "name": "The Lighthouse",
+        "role": "You live in a Lighthouse. You have no one but yourself. Turtles come and sit on your island. You don�t have anything to do. Or do you? Is there any way you can beat the game without leaving your island? Download today to find out!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/empatpuluhsatu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/l7THE 4LIGHTHOUSE.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/delapanpuluhsatu_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/delapanpuluhdua_desc.png"
     }
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Bare Bones Texture Pack",
+        "role": "Bare Bones is a texture pack with the purpose of bringing your world and the default Minecraft textures to it's 'bare bones'. It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/2/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/2/RP_BB.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/2/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/2/2.png"
+    },
+    {
+        "name": "Bare Bones PvP",
+        "role": "Bare Bones PvP 16x is a texture pack that you can overlay on top of the Bare Bones textures to get a better PvP experience. Start PvP-ing with the bare bones of Minecraft textures!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/1/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/1/Barebones.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/1/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bare Bones/1/3.png"
+    },
+    {
+        "name": "RSPE Shaders",
+        "role": "RSPE Shaders is a resource pack which makes the world look more vibrant, realistic and alive. Some things which it changes are the clouds, water, lava and shadows. This is one of the best shader packs for version 0.16/0.17 for Minecraft PE. It has been specifically designed for iOS devices but it will also work on Android. All in all, it�s an amazing shaders pack!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/empatpuluhlima_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/RSPEShaderBeta.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/empatpuluhenam_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/duapuluhtiga.png"
+    },
+    {
+        "name": "Realistic Shaders [16 16]",
+        "role": "This shaders pack is the perfect addition to make the game look a lot more realistic and alive. One of the really cool features make it look as if wind was blowing in the grass and leaves causing them to move. The shadows are heavily improved which make them look more realistic and as you will see in the images further down it has a great impact on the graphics.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/tigapuluhdua.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/Shaders Mcpe 0.12.1 (1).mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhtiga_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhempat_desc.png"
+    },
+    {
+        "name": "Winter HD (1.14+)",
+        "role": "This is a shaders which adds winter season with high definition of everything. Suitable for your map, and it is working smoothly in every low spec device. The size is just 2 MB. Interested? Feel free to try it out!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/tujuhpuluhsembilan_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/WinterHD.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/empatpuluh.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/delapanpuluh_desc.png"
+    },
+    {
+        "name": "Night Vision Pack (Shader)",
+        "role": "Forget about the torches. This shader pack pretty much removes darkness from the game and it doesn�t seem to affect other parts of the game in any way. This pack is suitable for anyone who want to be out exploring during the night or go on an adventure underground to explore caves. Everything will look the same except for the darkness which will be gone.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/empatpuluhtiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/Night Vision Pack 1.0.3.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/delapanpuluhenam_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/delapanpuluhlima_desc.png"
+    },
+    {
+        "name": "ReBuilt Shader",
+        "role": "ReBuilt Shader, a shader pack rebuild from scratch, is the successor of the famous UltraMax Shader. Using new rendering methods to create a new stunning visuals at little performance cost.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/ReBuilt-Shader-v1.0.2_1603435794.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/dua_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/dua_desc.png"
+    },
+    {
+        "name": "SufiCraft Shader v0.2",
+        "role": "This shader just a simple shader but it will make your minecraft better. There are some future in this shader to make it beautiful. You can use this shader to your world to make it better.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/tiga_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/SufiCraft-Shader-v0.2.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/empat_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/dua.png"
+    },
+    {
+        "name": "Energy Shaders",
+        "role": "Energy Shaders makes your world look much better. With better lights, shadows, fog and much more. You should just download it and try it our for yourself. It`s totally free! Energy Shaders is one of the first shaders to offer full support for Windows 10, iOS and Android. The most noticeable differences are for the water and lighting. The combined result is astonishing as it makes the world look a bit more realistic but primarily just a more beautiful world to experience. It also comes with some nice 32�32 clear glass textures.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/enam_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/Energy Shaders v. 3.7.1.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/tiga.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/lima_desc.png"
+    },
+    {
+        "name": "HTRE Shader",
+        "role": "HTRE Shader is one of the best shaders for slow devices, such as a Kindle Fire HD8 7th gen, which can barely run any nice shaders. I tried the highest rated shaders on the Kindle and it lagged so much! That is why I created the HTRE Shader! I wanted a good shader with no lag at all! If you want that you should download this shader!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/duabelas_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/HTREShader/HTREShader.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/sebelas_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/enam.png"
+    },
+    {
+        "name": "UltraMin Shader",
+        "role": "WARNING! This is not UltraMax Shader. The shader that you�re looking for is in a different post. UltraMin Shader is a variation of UltraMax Shader aimed to give you an ultra lightweight and extremely close to vanilla based visuals, the original intention of UltraLite Shader. In fact, this shader is planned to be the continuation of the now obsolete and superseded UltraLite and Ultra10 Shader. UltraMin Shader, while maintaining fair performance, is designed to be as compatible as possible to as many devices as possible. Apart from that, UltraMin Shader will serves as UltraMax Shader�s experimental shader. Support both Windows 10 and Android version of Minecraft Bedrock Edition (Based on my testing: Lenovo ThinkPad Edge E420s, Huawei P9).",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/tujuh.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/UltraMin Shader 1.0.1.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/tigabelas_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/empatbelas_desc.png"
+    },
+    {
+        "name": "EVO Shader Mod V1.2.1",
+        "role": "EVO Shader will bring your MCPE to �realistic looking� with realistic lighting, it�s had many improvements in graphic, also have directional lighting from sun,semi-3D Cloud without lag and many more, I hope you all enjoyed it",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/limabelas_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/EVOShaderModV1.2_REV33.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/limabelas_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/enambelas_desc.png"
+    },
+    {
+        "name": "ChunkBounds Shaders",
+        "role": "Simple resource-pack, which shows you the boundaries of all chunks. Every Chunk is 16 blocks in the x and the z Direction. Useful on some Servers where you have to claim chunks to build on This pack shows the bounds of every chunk in your world. The chunks are outlined by red markers, so they are very easy to spot, and especially so when it�s nighttime. Finding the exact positioning of chunks in Minecraft: Bedrock Edition can be quite tricky, but with this pack it�s so much easier. It works for both Android, iOS and Windows 10.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/tujuhbelas_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/ChunksBoundsShaders v.1.0.3.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/delapanbelas_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/sembilan.png"
+    },
+    {
+        "name": "Simple Shader (Previously SSPEShader)",
+        "role": "Simple Shader is a lightweight shader pack which is the perfect solution for anyone who have got a low-end device and haven�t been able to use any of the other shader packs. It�s a much more simple pack which still got some of the essential features (such as more realistic skies) to make Minecraft much more beautiful and faithfully realistic.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/sepuluh.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/SimpleShader.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/sembilanbelas_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/duapuluh_desc.png"
+    },
+    {
+        "name": "Kuri Shaders (Android)",
+        "role": "Kuri Shaders is a resource pack which brings improved ambient to the world and also new effects for entities. At this moment in time it is only available for Android devices. It�s recommended to be using the latest beta. This new shaders pack will make your world come to alive more and make it more interesting to explore as it�s a general improvement of the graphics.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/11/sebelas.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/11/Kuri Shaders v1.0.0 (MCBE 1.8+).mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/11/duapuluhsatu_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/11/duapuluhdua_desc.png"
+    },
+    {
+        "name": "Tint Shader (Windows 10)",
+        "role": "Tint Shader is adds beautiful new skies, shadows and lighting to Minecraft: Bedrock Edition. Due to certain limitations it�s currently only available for Windows 10 (PC) users. During the night the sky is lit up by amazing northern lights. Not only does these shaders make the world more realistic but it also adds another whole new quality of exploration to the game as everything is more beautiful to explore.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/12/duapuluhtiga_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/12/[Windows10 TEST3.0]Tint Shader.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/12/duapuluhempat_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/12/duabelas.png"
+    },
+    {
+        "name": "WinterCraft Shader",
+        "role": "This shader will turn your world into a winter wonderland. The main and most noticeable difference is the constant white fog. Another feature is the completely revamped skybox which includes white puffy clouds. At this point it only appears to be working for Android and some other devices and it�s also not as well optimized for nighttime compared to daytime.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/13/tigabelas.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/13/WinterCraft.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/13/duapuluhlima_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/13/duapuluhenam_desc.png"
+    },
+    {
+        "name": "Psychedelic PE Shader",
+        "role": "This shader alters the graphics in Minecraft to look stranger and more vibrant. The entire world appears as if it is an entire living organism as it will continuously pulsate and shift colors. It�s a quite overwhelming experience and it would no doubt be more difficulty trying to survive in Minecraft while using this shader.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/14/empatbelas.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/14/psychedelicpe.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/14/duapuluhtujuh_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/14/duapuluhdelapan_desc.png"
+    },
+    {
+        "name": "BLPE Shaders",
+        "role": "BLPE Shaders turns Minecraft into something much more beautiful to experience. The colors for the grass, leaves and other terrain blocks look much more vibrant and the design for the water also looks more shiny and realistic. However, since this is the first release there are some flaws. For example, the water is completely still and doesn�t move and also the clouds during the day looks just as they do originally.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/tigapuluh_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/blpe-shaders.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/limabelas.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/duapuluhsembilan_desc.png"
+    },
+    {
+        "name": "Beautiful Swamp Water! (Shader)",
+        "role": "Want to build a great build in a swamp but sick of the ugly water? Then look no further than this helpful resource pack that will make swamps look like normal rivers. It works really well with my builds and if you want to do the same for yours than just download this pack!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/tigapuluhsatu_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/Swampfixer[2].mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/tigapuluhdua_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/enambelas.png"
+    },
+    {
+        "name": "Zebra Shaders PE",
+        "role": "Zebra Shaders is a realistic shaders pack that is made to be able to run on mobile low devices, with beautiful coloring and comfortable in sight. zebra shaders are very suitable for you to use when playing survival or creative.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/tujuhbelas.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/Zebra Shaders v1.8.1 [Bug Fix].mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/tigapuluhtiga_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/tigapuluhempat_desc.png"
+    },
+    {
+        "name": "TTW Shader",
+        "role": "The Thin White Shader It is a realistic shader whose main function is to run on most low-end devices, with realistic shadow, soft lighting and impressive skies. Support for mid-low range phones This Shader tries to give a new elegant and realistic look to Minecraft, try to optimize it by avoiding changing textures so that it can run on most devices.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/18/delapanbelas.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/18/TTW Shader v0.17.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/18/tigapuluhlima_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/18/tigapuluhenam_desc.png"
+    },
+    {
+        "name": "EB SHADER (Android/iOS) (1.14+)",
+        "role": "EB shader or Enhanced Biomes shader was the shader that i've made and used in my previous addon Enhanced Biomes. I've made this page to showcase this shader because i'm not able to do so in my previous work, so you can now have a wider look on this shader. This Shader is for Minecraft (Android / iOS). If you want to check the Enhanced Biomes addon, the link is at the bottom part of this page.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/19/tigapuluhtujuh_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/19/EB SHADER.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/19/tigapuluhdelapan_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/19/tigapuluhdelapan_desc.png"
+    },
+    {
+        "name": "Source Reload Shader (Windows 10)",
+        "role": "Source Reload is a highly realistic shader pack for Windows 10 Edition. Some of the included features are massively improved clouds, waving plants and wavy water. It's definitely one of the best shader packs and currently it�s only available for Windows 10 users. Even though it's a fairly new pack it includes most features one needs!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/20/tigapuluhsembilan_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/20/[Ultra]Source Reload Shader 1.2 Ultra W10.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/20/empatpuluh_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/20/duapuluh.png"
+    },
+    {
+        "name": "TrippyPE Shader",
+        "role": "TrippyPE is most likely something you've never experienced in Minecraft PE. It makes the entire world look wavy and unless you knew you had installed it you probably would have started to question your own sanity. The game is still entirely playable but things will definitely look a whole lot different which as a result makes playing it more difficult.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/21/empatpuluhsatu_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/21/trippype_shader.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/21/empatpuluhsatu_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/21/empatpuluhdua_desc.png"
+    },
+    {
+        "name": "Round World Shaders",
+        "role": "Are you a flat world believer? Well, no more I suppose! This shader makes the world in Minecraft look more round. It�s only the player who uses the resource pack which will be affected by this great visual change. It]'s by no means a realistic pack as you can't really sense the shape of the Earth just by walking. It's still pretty cool though. Beware though, it might cause you to feel nauseous but it's easy to disable the pack.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/empatpuluhtiga_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/Round World Shaders v. 1.0.2.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/empatpuluhempat_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/duapuluhdua.png"
+    },
+    {
+        "name": "SEUS PE Shader (Medium)",
+        "role": "This is to date the most realistic shaders pack for Minecraft PE. The light of the sun and moon shimmers beautifully when reflected on the water. Shadows have been massively improved and so have the sky and the Nether. The hype for this is real and you should definitely give it a try if you want to experience a more realistic version of Minecraft. Creator: Gabriel Paixão",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/3.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/seusstandard.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/2.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/1.jpg"
+    },
+    {
+        "name": "Ultra Source Reload Shader (Windows 10)",
+        "role": "Source Reload is a highly realistic shader pack for Windows 10 Edition. Some of the included features are massively improved clouds, waving plants and wavy water. It's definitely one of the best shader packs and currently it's only available for Windows 10 users. Even though it's a fairly new pack it includes most features one needs!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/3.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/UltraSource Reload Shader 1.2 Ultra W10.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/2.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/1.jpg"
+    },
+    {
+        "name": "ESTN Shaders Official Release",
+        "role": "ESTN Shaders is now available on Github with its own version and wiki page. Check it out here by clicking this text! ESTN Shaders (short ver. of Eldeston) is a shader pack made to change your gameplay's looks through shaders, like the water noise, plant waves, shader based sun and moon, monochromatic weather, and much more! Presented to you by FlameRender Studios.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/ESTN-Shaders-master.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png"
+    },
+    {
+        "name": "ESTN Shaders Official Release",
+        "role": " ESTN Shaders is now available on Github with its own version and wiki page. Check it out here by clicking this text! ESTN Shaders (short ver. of Eldeston) is a shader pack made to change your gameplay's looks through shaders, like the water noise, plant waves, shader based sun and moon, monochromatic weather, and much more! Presented to you by FlameRender Studios.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/ESTN-Shaders-master.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/1.png"
     }
   ],
   "Skins": [
     {
-    "id": 1,
+    "id": 5813563307,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/yBh9lOxbLsV-3kd6xvH2fYzqUhHgAvYe9srUjMxLwntoc2tWMlsi6tjSxsg-KNc8Gb5N2Z74OybMufAmCuVAHeqj7xa3y7rhNw",
+    "view_skin": "https://lh3.googleusercontent.com/5xkPwiZXHazr6K4PV07zlhbAny6tWAB4dyRyBbZEPCzTv-h56A-aDU8fSmMZq-1vKENcGpxaeUlVmjna-dTW7cJL-MaJMlYWc9o"
+  },
+  {
+    "id": 5786993412,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/j40ofc_vWw8PKNOhu9eZ7iFV8Qn3O0UyE2JCnNVSfZOY5xReyvSu2wIX7PGYJLv-Rp7jbT9aTiflsBwriZFVIsN1l9x2XDZOxAw",
+    "view_skin": "https://lh3.googleusercontent.com/5IXVc2Niwfqn--FFc8mBr7WYYbxNgxLPbg0_gYOMaojK9fuMY4s4HeHeBZ24vQb3gGWODMDXCjYZuCmWNAgKvF5XSNECXFiaATU"
+  },
+  {
+    "id": 5821193052,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/bhDldFD8cDUXUy5ttM5dVSO9_IVE-wcfvbWrCogBEW1WIDoy7otC08dPgx09sKh1jSBiqqClZDwk9f5LG-b5f5KLW6itMv1xeyw",
+    "view_skin": "https://lh3.googleusercontent.com/rXjDKFGFBHQlZ1zzrSV2tLcpzPOw3uqGcnJhLrsAwWNtGLMjjN_ACdHu0jA4hS1rSWiR2O92cwcJ0yuPEu1upfPnQThOmisuuGyS"
+  },
+  {
+    "id": 5800353137,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/bhDldFD8cDUXUy5ttM5dVSO9_IVE-wcfvbWrCogBEW1WIDoy7otC08dPgx09sKh1jSBiqqClZDwk9f5LG-b5f5KLW6itMv1xeyw",
+    "view_skin": "https://lh3.googleusercontent.com/11TBaadhvCbqGPI9LoXgbXS5-d0T6PI-B5cWu84FXeRhqS68_je0xP4sioiiU2CyTFggOt882sXLN6l9bMQe4ktCKXUlZNmnYyQ"
+  },
+  {
+    "id": 5790793083,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/k8De95uNUetlF46Y11f-qQtfIIsGy7PaT9Vxhbw-hag7RDiUReK9AWJoas6jx_RhZ_E0aXvx7ThoB3TzyLzlYXgh9OoyRjG-QP0",
+    "view_skin": "https://lh3.googleusercontent.com/Qhgf6-5W03qG4Qysr13mOe327R7BwUQ_9gjTSOc-607mEh_H77aZEhbUGoniK69VhKxEv3_0kNUx6OWPxAsxma-mw8byvzlxJQ"
+  },
+  {
+    "id": 5786793343,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/SHaoTeaLsZb4IoUIBp_enIL7H-jbaqhIYn-soFOXNuqwMv-AowUoiQUPx5SqHgsXSNFtwur-YI6DabiFPFUxhnApID2iaaoQ",
+    "view_skin": "https://lh3.googleusercontent.com/krJdaMikBP1Si0_5MS3b0_NqFjnT3e15owxSrfyZ-xIqkQu-WkmhGRAXeebyIyOCXAMZWDgOFp1TD3nksPQ9MyrTy6VoA_HhOEM"
+  },
+  {
+    "id": 5790003920,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/GcSirp4FmAzUS0KXmixIuUiU7EwluQp6XdaSXOlckO9OvWqYZ7gruhHRk47LER6v3Xo-nr0sY2dSOMEU6Bj1Fvn2StpNJNVBcsq8",
+    "view_skin": "https://lh3.googleusercontent.com/IkjFLm6_fyikzb2pcPJlCcyd1xZ3qBw7i6OkV2byUL9T3Yo7uw5d7OSEkjB6F7LPyhKsvvxcb_EeCDbNaBQ9FzQspuh5I6W7yGM"
+  },
+  {
+    "id": 5781093056,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/oPv60NqB7OG6STwpQTX8t1efJHmAk1yqXu3b_9Ufhx7Wdx270lhIOOQjwP9YHvYUayorPhBxAY55rcIyEMwDM4VbjTmRRAimfQ",
+    "view_skin": "https://lh3.googleusercontent.com/GoGT01k1WyvCTBK0TOhexTBRGYHMk8gEktDIY6Q5phqU6KEyDqEyRZDbqpg-ZHfYWG60AfTTKLJ_62BNMn2KFN7C9cUcIgJGSdA"
+  },
+  {
+    "id": 5813393154,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/06ScQWdv5CPxnX7q010ebkgCrExs7jTyMyKhWDLmwJb0SMrShwNsQj9PAA6CeOtmBDvTSDqr-QtWXiM1XZYaLW_TfIUjhpW9Y5I",
+    "view_skin": "https://lh3.googleusercontent.com/-w14T38nBFejhZSkIk4aL8M6Yweh8zE9GOeUhcoYf-UK3zDVtYtDjlBMFu_EpRz4DOYafsUj2MHsC7fAlFzOSh50yBgB89uQ3Q"
+  },
+  {
+    "id": 5772894042,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/jvfBRNV5g_XAIMLEffZddw9Q1g9wTWX0PEM0MGZSvHLKH9b8WKy4plmhVwITThdfgW566vozYqZJHAdHruafrrt7hQbsC1U1RoI",
+    "view_skin": "https://lh3.googleusercontent.com/8a73F-aiTpbLHDG71B_TrMmZlPrEA6c1trymIE6r1U4afHqarzVEHL1Rh8N9dxsdCNlCODKjFj29gtOoci6iXUlw_VeaGeQGxL0"
+  },
+  {
+    "id": 5794023527,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/tYLXBVpOf_I1lNR_IZ_UEKOO8hULBYAWHIeKv4DXO6vwYFd2Vk0c56w01_tfnuVn9RwClo5owrZfI3WeUwlvxuPU694S-hFdOg4",
+    "view_skin": "https://lh3.googleusercontent.com/9vX66dtPiNWaO1S5RRh7mpgEwmq6cM1KRYZNnASNG1jEWXwk65VH3e3vBRiw-QX64ITeyNZWfKVSLY-kb8aVeelli9Pbtkwznog"
+  },
+  {
+    "id": 5786543370,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/iWv679pcd25Pn2EF9dJnOa8xjzowFjodOimrQnv6JN4wWFCwPnno2fwkCrc9-WVBbMzEUhZMsek39zjzp1O2xDzE2UuTMooTMQ",
+    "view_skin": "https://lh3.googleusercontent.com/4pwiY19lVR3VSB-9TSRaXmG7xqWKJAmkdKgQfAq9-uNBDoZ6tDG3T_u1_1Wnvjf-7iHqR_4B_Bz5tfx7Q6o2YgyN6h_ewFZzq-M"
+  },
+  {
+    "id": 3532703462,
     "name_skin": "",
     "skin_url": "https://lh3.googleusercontent.com/r5nCGflKvIvspDqxq3QKiWa00N7VcCd6Am433p3jx_uYDBjx_1TAk7ZSqY3JgW1jxCj3tfhkzKF_aUF-kBAXeFI",
     "view_skin": "https://lh3.googleusercontent.com/icJ7ydTNqHdW38-IqLWW5nIXMwClV4I58G-D47MgZ5x3-gMFewLxnPF3dC4WJxvof27PYvk76pFGMPxswi77pQ"
-    },{
-    "id": 2,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/oSBO7E3QgsT3ImAP3GSMN2GaJVLHvUiEIqvwWLSDEq5bP0ZuScvvgTG9FjhgLFVyBl_B8zHVw0IIusdMlrQZI08LsIGLM2cG7pcE",
-    "view_skin": "https://lh3.googleusercontent.com/ERCGOaMieKTQe41kY6NpPYGRruBfi4-vExM0GQYOzWVA76CgAay2InGhwWB26nEoJUWb4mD6TOJlIMxI87brMJ-T3bb4vslmQQ"
   },
   {
-    "id": 3,
+    "id": 4347603888,
     "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/BFuSPiiOz3tj37w_Uvvm3tDsxihDlhL6PmbAxv5mxxPyeNxcv_OVOWkcGouAEmGJQQKaMneQ5Q7N-6hJQl_w1On2dNivxR-8k-s",
-    "view_skin": "https://lh3.googleusercontent.com/2py_z4pEkSZwezDsjfstZLyZbME1crqoqt88tvdH8FM6gBBEYrDRglRE-T-Dm4s1KpFdefQRogpQv2mq_4PdOsAobdlv7fgC8g"
+    "skin_url": "https://lh3.googleusercontent.com/G82mIgalnbggbngkSrBwC_ZpYSvqx6EMf9ybwSlL3BxvimP9FIPDZwb1FkaYCJhIcaX6APyiJphYJtqxH5D_F7o",
+    "view_skin": "https://lh3.googleusercontent.com/w7q0XVaa4hl9NxXs4xtxWIzRiXwMmypk3Pj_dc4_5KzBrYlEKrbZV8VVnADUe5TyHBghIVLYZk_CqfxlKqKxkg"
   },
   {
-    "id": 4,
+    "id": 5283463276,
     "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/2-hS5tMhtv7fGAty3z297UP_4hTmTN96gQgk9X3r9q1b6mBm0xIUdBdAjQ-7-Xg4hpx6dtLdAqt3zc3MuNwMit_H5sFizFTq5Qg",
-    "view_skin": "https://lh3.googleusercontent.com/bbQGQYw2we7BFRRMPOCd4KOhwURgjF0TjaNU-ltjnGkoxnKuYH3l2IAI3sm66dtzNK2-2oVMNTGJ--QvT45q33SSJOdI1hb1PPg"
+    "skin_url": "https://lh3.googleusercontent.com/aETo0TdfO7CF-cnpCxrzswJMPwkAHkRRukRBJGnU5HNo5ZypZz1lGLRSSM6OZ0ij9Mvw8BTrpk8IsSRR4-0ykZXO1oYaFlaRLP8",
+    "view_skin": "https://lh3.googleusercontent.com/ZTu_gM6Uf1ZE-ZO3ePshBpSl9eRvE1M5ZCNZnSsQZRhPQwnZZjCSivYc7M__hWNu2SWhxAj7SLF1Nodu837l1sLyxF6iG4MFfw"
   },
   {
-    "id": 5,
+    "id": 5806413115,
     "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/_OxRWzkU71EG21FqBx_9z30FzMITRZtme5yvb4sSFdiwhJk0F4rdGRwsUspF86_YICj25iRZEtzPowlkPSDuGF-QWwzOb_ksvg",
-    "view_skin": "https://lh3.googleusercontent.com/lhghIgMopvoaAXhnzVpU423CCB0DNq8IJW5lYr3lv_OcvIRjzaefNranojP9NhSkDJtfav55eTSRW5539BUSOwqDUt7lIhnUeQ"
+    "skin_url": "https://lh3.googleusercontent.com/CPk_Qx7NTo3ZwUCy5gKwIlIy0lGSXVKdJbfvFF8Q5BhFQ5zRbHo87ge015rs2B_ZFKSLdQLkXLLRCrVfBFtImkOkt90Ad5IiRR4",
+    "view_skin": "https://lh3.googleusercontent.com/HnbY8v0F6QE-eSYBG9qdpGJRQnj2nV1dN8XRBOdsjLbVD-b2CQgUW0Ksbb5TcSu62IEuq3zPLJD4ugnFSsXi-teyVR2twq2D0N8"
+  },
+  {
+    "id": 5794523594,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/XddS2FtrkoeE8z3e0an6NEW_W2yXQXSiqXh3js9UdLv_oYupCKHPuE4kj11J1ubJ9mmvDenkyUGTPml-3UEcEqA2kYIBpyYxVAEP",
+    "view_skin": "https://lh3.googleusercontent.com/bBtuq9WaSlf0VxkWApfyBKrIQX4OD8I8-GwSSa-hn5sKHBYYY_-Ws2GZBkRabt-tf1N8Bll5QP5bwRyNKuJcZKp57IkbH4BaR_Cs"
+  },
+  {
+    "id": 5808183050,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/kVDHenQqnikq5-mCC_Tg0pQ7Yj2XgTcJSqIXCJpqcUX9xugg5n4KT7ukQH2Pw_kKDXao2R-MnCAJzCPJd5p-O0zsVtit_zObFlk",
+    "view_skin": "https://lh3.googleusercontent.com/92TDfmqCjnEJMErvv0cSho-HXvkWPbkKuxU8awyh8lHgd-4PVoaflGP7nQLiOBab_0UnGwLO6fWPVSQ6C2OiR7iMXaSRgNCdHJPG"
+  },
+  {
+    "id": 5804413476,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/WBID5WL7LmcwYRE1hia9oa3auY1o9t7PTPDX0YSDxsKbK6gwMYVomE09_5MUCUDj-ATWtGvfrcNiohMu8o4pugKavDKzlxh-XKe9",
+    "view_skin": "https://lh3.googleusercontent.com/T6jeYnUHF6l5knsenSZmMoK3-hDYpJttgbU9RTOqCWDI2iDHuBhf8z0YnclvqZuI20Od1kfxt5ir2-4ziDf6FOpkBjhtW9nY5gYE"
+  },
+  {
+    "id": 5817343796,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/A2Qw-txzjmAfFmmdWeexhLHDGjJdvr0u10R-ptCnxjqyD_KvNnWzdxrJMbKWy50j8r4t4oGy6EHnWPyuCoPqFM4A9QAvS7dFwg",
+    "view_skin": "https://lh3.googleusercontent.com/Sos4roMEIC_mDKkEZkhExVZO3SeeN2oIiC9mOrtKJwjm3rJRm00K_ud45P9tj11G5FXnzV9qZ41uR6C8ms9i4DPj89mF7QVy1Ro"
+  },
+  {
+    "id": 5817293266,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/cbI7SzyZfJS4jLTTHlZKpQ0vwtwgsu0PRCIWVVx_HxR-m9l5WRU88tnQM4eJjha1UC13tqbHxgp3zBvFjzrNrpacG7iEeAdzkQ",
+    "view_skin": "https://lh3.googleusercontent.com/Dvb9DBetiqRMoHbz9r0uMd2WMoKzpFeyqW4s7jIi6r9uEOaQet2SO3K99WgPGUhlfKYx5r9aH6ES59BIf6Ymyu4rCey7vK5FlQ"
+  },
+  {
+    "id": 5791063033,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/iUNKP46aNYkE4Py1Y-YaWSp66eCQsstrHIbmeTHkrLfAKJ_d_KK93l8HbQbe5BhE6OdEhH-acbxHhQEQ4oZBAu2us8d9gwMTB8s",
+    "view_skin": "https://lh3.googleusercontent.com/8to_mpn0ExMHMzc7w53BZgH0_EZbW9IA5i9MdlC4trqhpRdkHcPGCaDxvznMEs4Kma1K8kfOlycpXO91ZwyAb4bFAFMPN7FGYjo"
+  },
+  {
+    "id": 5806113113,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/yuvEVz1QZozIWEuaj86SBP9-P88zmfOLciIsvQBpq0y36DHX-IFcb72ME48-ptTn5Yfsut7xtgLXszA6vVup3No8tFct2-l7yA",
+    "view_skin": "https://lh3.googleusercontent.com/pimWSXvFIGvLdGOHHQdZ_MgHvHFsXmjGmDPQ9wCUdcdPUkbeM67tuhTABVr8JXUSXy139r141BCAEDl_gweFW_YyRi9Xud3IZIw"
+  },
+  {
+    "id": 5790803652,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/yBh9lOxbLsV-3kd6xvH2fYzqUhHgAvYe9srUjMxLwntoc2tWMlsi6tjSxsg-KNc8Gb5N2Z74OybMufAmCuVAHeqj7xa3y7rhNw",
+    "view_skin": "https://lh3.googleusercontent.com/LzAmn5dYM5JyMoI1qVrxB7mgX9G-_nn1cVMNuGGG_ZSini_uEIB8-wM_GGgJ8owGz5L8EaZtb_wnhKh05CIMNf9SQ5KmQthMrdQ5"
   }
   ],
   "More":
